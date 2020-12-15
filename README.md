@@ -1,5 +1,5 @@
 # dockerization
-Dockerization of spring boot application
+Dockerization with fabric8 of spring boot application
 
 mvn clean
 
